@@ -1,0 +1,1 @@
+const ninja = 1;
