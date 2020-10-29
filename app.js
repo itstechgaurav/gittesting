@@ -1,1 +1,1 @@
-const ninja = 1;
+const ninja = 2;
